@@ -1,0 +1,13 @@
+//
+1.
+    *pc = B, p3 = 0x5678
+	*p3 = A, p3 = 0x1234
+	*p1 = B, p1 = 0x1234
+//
+2.
+Những lệnh gán giá trị i bằng 5 là : *p=5;
+
+//
+3.
+lỗi ở đây là do con trỏ mang kiểu double nhưng lại trỏ tới biến kiểu char
+
